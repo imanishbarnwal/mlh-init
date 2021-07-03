@@ -10,3 +10,5 @@ Add yourself below as a `Team Member`.
 
 ## Team Members:
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
+- [Sakalya Mitra](https://github.com/Sakalya100)
+
