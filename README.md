@@ -10,4 +10,5 @@ Add yourself below as a `Team Member`.
 
 ## Team Members:
 - [Sakalya Mitra](https://github.com/Sakalya100)
+- [Liza Deka](https://github.com/Baba-Yaga-1)
 
