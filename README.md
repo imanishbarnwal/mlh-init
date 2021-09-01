@@ -13,3 +13,4 @@ Add yourself below as a `Team Member`.
 - [Sakalya Mitra](https://github.com/Sakalya100)
 - [Rohit Dey](https://github.com/Myself-Rohit-Dey)
 - [Mousumi Pal](https://github.com/Mousumi2002)
+- [Rohit Tewari](https://github.com/rtewari056)
